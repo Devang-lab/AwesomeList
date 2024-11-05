@@ -99,3 +99,7 @@ See the [example](https://github.com/Quantum-Optics-LKB/awesome_list/blob/main/E
 
 ## Documentation & wiki
 - Group wiki [github link](https://github.com/quantumopticslkb/doc.quantumoptics.fr.git)
+
+### Two-Photon collisions via Two-Atom
+- [Scully](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.93.093002). An Awesome Article on the nature of entanglement and two-photon interactions.
+- [Fabre]([https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.93.093002](https://hal.science/hal-00802757/document)). An Awesome Article on the effects of two-photon collisions if the photons are entangled.
